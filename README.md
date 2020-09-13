@@ -1,26 +1,25 @@
-# Hey! 🙋‍♂️ I'm [Salih!](https://math3mantic.github.io/) & I love [Data! (:](https://www.kaggle.com/math3mantic)
+# Hey! 🙋‍♂️ I'm [ZUBAIR!](https://zubairashfaque.github.io/) & I love TO Play With [Data! (:](https://www.kaggle.com/zubairashfaque)
 
-<a href="https://github.com/math3mantic">
+<a href="https://www.kaggle.com/zubairashfaque">
   <img align="left" alt="Salih | Github" width="25px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 </a>
-<a href="https://www.linkedin.com/in/salihkilicli/">
+<a href="https://www.linkedin.com/in/zubair-ashfaque-ab100621/">
   <img align="left" alt="Salih | LinkedIn" width="27px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" />
 </a>
-<a href="https://www.kaggle.com/math3mantic">
+<a href="https://www.kaggle.com/zubairashfaque">
   <img align="left" alt="Salih | Kaggle" width="15px" src="https://www.iconbolt.com/iconsets/font-awesome-brands/kaggle.svg" />
 </a>
-<a href="https://twitter.com/math3mantic_">
+<a href="https://twitter.com/zubairashfaque">
   <img align="left" alt="Salih | Twitter" width="27px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />
 </a>
 
 <br />
 <br />
 
-Hello, my name is **Salih Kilicli**. I am an Applied Mathematician and Aspiring Data Scientist 📈 📊 📉 This might sound crazy but I decided to leave my Ph.D. education in Mathematics @ Texas A&M University during a pandemic to be a Data Scientist/ML Engineer to follow my passion in Data Science & AI 🦾  I will be sharing my experience and knowledge in Data Science, ML & DL on my personal [website](https://salihkilicli.github.io/) and my [Medium](https://medium.com/@math3mantic) account.
+Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate Data Scientist & Machine Learning Engineers 📈 📊 📉 This might sound crazy but I have decided to change my career as a System Analyst to be a Data Scientist/ML Engineer to follow my passion in Data Science & AI 🦾  I will be sharing my experience and knowledge in Data Science, ML & DL on my personal [website](https://zubairashfaque.github.io/) and my [Medium](https://zubairashfaque.github.io/) account.
 
 ### Personal Octocat! 🐙🐱 <img align="right" alt="MyOctocat" height =" 300px" width="300px" src="https://github.com/salihkilicli/salihkilicli/blob/master/octocat.png" />
 
-I hope you liked my Texan 🇨🇱  Octocat. You can create yours using https://myoctocat.com/.
 
 ### About Me:
 

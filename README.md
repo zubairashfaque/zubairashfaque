@@ -27,8 +27,8 @@ Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate D
 - 📚  &nbsp; I previously finished [ML](https://www.coursera.org/account/accomplishments/records/E2EHKPQW7DYF) and [DL](https://www.coursera.org/account/accomplishments/specialization/JBUU2DMS9344) specialization by Andrew Ng on [Coursera](https://www.coursera.org)
 - 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions
 - 🙏 &nbsp; If you would like to build a team, please contact me!
-- 📨 &nbsp; You contact me using mrsalihkilicli@gmail.com
-- 📑 &nbsp; Here is my most recent [Resume](https://github.com/salihkilicli/salihkilicli/blob/master/Salih_Resume_LaTeX.pdf)
+- 📨 &nbsp; You contact me using zubairashfaque@gmail.com
+- 📑 &nbsp; Here is my most recent [Resume](https://zubairashfaque.github.io/resume/Zubair_Resume.pdf)
 
 ![View Count](https://gpvc.arturio.dev/zubairashfaque)
 

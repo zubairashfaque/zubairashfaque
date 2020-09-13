@@ -1,6 +1,6 @@
 # Hey! 🙋‍♂️ I'm [ZUBAIR!](https://zubairashfaque.github.io/) & I love TO Play With [Data! (:](https://www.kaggle.com/zubairashfaque)
 
-<a href="https://www.kaggle.com/zubairashfaque">
+<a href="https://github.com/zubairashfaque">
   <img align="left" alt="Salih | Github" width="25px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/zubair-ashfaque-ab100621/">
@@ -30,7 +30,8 @@ Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate D
 - 📨 &nbsp; You contact me using mrsalihkilicli@gmail.com
 - 📑 &nbsp; Here is my most recent [Resume](https://github.com/salihkilicli/salihkilicli/blob/master/Salih_Resume_LaTeX.pdf)
 
-![View Count](https://gpvc.arturio.dev/salihkilicli)
+![View Count](https://gpvc.arturio.dev/zubairashfaque)
+
 
 ### Programming Skills:  <img align='right' src="https://github.com/salihkilicli/salihkilicli/blob/master/Experience.png" alt="Pie Chart" width="32%">
 

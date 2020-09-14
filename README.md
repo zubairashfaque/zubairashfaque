@@ -28,7 +28,7 @@ Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate D
 - 📚  &nbsp; I previously finished [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/professional-cert/R8ZM3HN9A9CX), [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/WAY5687WJGHC), [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/ELA9UH2WESZP) and [DL](https://www.coursera.org/account/accomplishments/specialization/HU8J7CVWXRB4) specialization by Andrew Ng on [Coursera](https://www.coursera.org)
 - 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions
 - 🙏 &nbsp; If you would like to build a team, please contact me!
-- 📨 &nbsp; You contact me using zubairashfaque@gmail.com
+- 📨 &nbsp; You contact me using mianashfaque@gmail.com
 - 📑 &nbsp; Here is my most recent [Resume](https://zubairashfaque.github.io/resume/Zubair_Resume.pdf)
 
 ![View Count](https://gpvc.arturio.dev/zubairashfaque)

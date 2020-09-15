@@ -18,7 +18,7 @@
 
 Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate Data Scientist & Machine Learning Engineer 📈 📊 📉 This might sound crazy but I have decided to change my career as a System Analyst to be a Data Scientist/ML Engineer to follow my passion in Data Science & AI 🦾  I will be sharing my experience and knowledge in Data Science, ML & DL on my personal [website](https://zubairashfaque.github.io/) and my [Medium](https://zubairashfaque.github.io/) account.
 
- <img align="right" alt="Me" height =" 300px" width="300px" src="https://github.com/zubairashfaque/zubairashfaque/me.png" />
+ <img align="right" alt="Me" height =" 300px" width="300px" src="https://github.com/zubairashfaque/zubairashfaque/blob/master/me.png"/>
 
 
 ### About Me:

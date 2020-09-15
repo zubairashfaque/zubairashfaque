@@ -23,7 +23,7 @@ Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate D
 
 ### About Me:
 - 🎖 &nbsp; I’m [Certified TensorFlow Developer](https://www.credential.net/3b358440-6c1a-4a2f-9c0a-61da65d2450d#gs.g2jgj9)
-- 📖  &nbsp; I'm currently learning [Algorithms](https://www.coursera.org/specializations/algorithms?) & [Applied Data Science w/ Python](https://www.coursera.org/specializations/data-science-python?) on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f)
+- 📖  &nbsp; I'm currently learning [Algorithms](https://www.coursera.org/specializations/algorithms?) & [Natural Language Processing - Coursera Specialization](https://www.coursera.org/specializations/natural-language-processing) on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f)
 
 - 📚  &nbsp; I previously finished [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/professional-cert/R8ZM3HN9A9CX), [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/WAY5687WJGHC), [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/ELA9UH2WESZP) and [DL](https://www.coursera.org/account/accomplishments/specialization/HU8J7CVWXRB4) specialization by Andrew Ng on [Coursera](https://www.coursera.org)
 - 🎖 &nbsp; I’m looking for people to collaborate on Kaggle competitions

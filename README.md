@@ -1,16 +1,16 @@
 # Hey! 🙋‍♂️ I'm [ZUBAIR!](https://zubairashfaque.github.io/) & I love TO Play With [Data! (:](https://www.kaggle.com/zubairashfaque)
 
 <a href="https://github.com/zubairashfaque">
-  <img align="left" alt="Salih | Github" width="25px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
+  <img align="left" alt="zubi | Github" width="25px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 </a>
 <a href="https://www.linkedin.com/in/zubair-ashfaque-ab100621/">
-  <img align="left" alt="Salih | LinkedIn" width="27px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" />
+  <img align="left" alt="zubi | LinkedIn" width="27px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" />
 </a>
 <a href="https://www.kaggle.com/zubairashfaque">
-  <img align="left" alt="Salih | Kaggle" width="15px" src="https://www.iconbolt.com/iconsets/font-awesome-brands/kaggle.svg" />
+  <img align="left" alt="zubi | Kaggle" width="15px" src="https://www.iconbolt.com/iconsets/font-awesome-brands/kaggle.svg" />
 </a>
 <a href="https://twitter.com/zubairashfaque">
-  <img align="left" alt="Salih | Twitter" width="27px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />
+  <img align="left" alt="zubi | Twitter" width="27px" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" />
 </a>
 
 <br />

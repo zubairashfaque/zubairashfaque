@@ -31,13 +31,10 @@ Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate D
 - 📨 &nbsp; You contact me using mianashfaque@gmail.com
 - 📑 &nbsp; Here is my most recent [Resume](https://zubairashfaque.github.io/resume/Zubair_Resume.pdf)
 
+<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-<<<<<<< HEAD
-  
-=======
->>>>>>> c56e055c1bf1300c03886c3b0c616644fb80ec87
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
   <code><img title="PyCharm" height="25" src="images/PyCharm.png"></code>

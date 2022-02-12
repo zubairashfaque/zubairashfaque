@@ -62,7 +62,8 @@ Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate D
 - 📑 &nbsp; Here is my most recent [Resume](https://zubairashfaque.github.io/resume/Zubair_Resume.pdf)
 
 <hr>
-<h2 align="center"; style="color:#20c080" >🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center"; style="color:#20c080" >🔥 Languages & Frameworks & Tools & Abilities 🔥</h2> #20c080
+
 <br>
 <p align="center">
   <code><img title="Python" height="25" src="images/python-original.svg"></code>

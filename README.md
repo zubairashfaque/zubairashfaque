@@ -1,6 +1,13 @@
-<p align="center"><a href="https://zubairashfaque.github.io"><img width="80%" src="images/zubi_ds.gif" /></a></p>
+<p align="center"><a href="https://zubairashfaque.github.io"><img width="90%" src="images/zubi_ds.gif" /></a></p>
 
-# Hey! 🙋‍♂️ I'm [ZUBAIR!](https://zubairashfaque.github.io/) & I love TO Play With [Data! (:](https://www.kaggle.com/zubairashfaque)
+<!--# Hey! 🙋‍♂️ I'm [ZUBAIR!](https://zubairashfaque.github.io/) & I love TO Play With [Data! (:](https://www.kaggle.com/zubairashfaque)-->
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey! 🙋‍♂️,+There!+👋;I'm+Zubair+Ashfaque....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 <a href="https://github.com/zubairashfaque">
   <img align="left" alt="zubi | Github" width="25px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />

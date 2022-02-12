@@ -63,6 +63,7 @@ Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate D
 
 <hr>
 <h2 align="center"; style="color:#20c080" >🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center"; style="color:#20c080" >🛠️ 🧰 🗄️ 💻 Something I always like to play with 💻 🗄️ 🧰 🛠️</h2>
 
 <br>
 <p align="center">

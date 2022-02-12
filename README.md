@@ -39,8 +39,8 @@
   <code>
     <a href="https://www.linkedin.com/in/zubair-ashfaque-ab100621/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/zubairashfaque" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://github.com/zubairashfaque" title="github Profile"><img width="22" src="images/github-icon-1.svg"> Stack Overflow</a></code>
-  <code><a href="https://www.kaggle.com/zubairashfaque/" title="Instagram Profile"><img width="22" src="images/kaggle.svg"> Instagram</a></code>
+  <code><a href="https://github.com/zubairashfaque" title="github Profile"><img width="22" src="images/github-icon-1.svg"> Github</a></code>
+  <code><a href="https://www.kaggle.com/zubairashfaque/" title="kaggle Profile"><img width="22" src="images/kaggle.svg"> Kaggle</a></code>
 </h5>
 
 <br />

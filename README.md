@@ -34,14 +34,25 @@ Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate D
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-
+  
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="PyCharm" height="25" src="images/PyCharm.png"></code>
+  <code><img title="Matlibplot" height="25" src="images/Matlibplot.svg"></code>  
+  <code><img title="Tableau" height="25" src="images/Tableau.png"></code>
+  <code><img title="TensorFlow" height="25" src="images/TF.svg"></code>
+  <code><img title="Keras" height="25" src="images/Keras.png"></code>
+  <code><img title="Rapidminer" height="25" src="images/Rapidminer.png"></code>  
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="Docker" height="25" src="images/docker-original.svg"></code>  
+  <code><img title="Apache_Spark" height="25" src="images/Apache_Spark.png"></code>
+  <code><img title="RedHat" height="25" src="images/redhat-original.svg"></code>    
+  <code><img title="Bash_Script" height="25" src="images/Bash_Script.png"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Oracle_DB" height="25" src="images/oracle-database-logo.png"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>    
 </p>
 <hr>
 

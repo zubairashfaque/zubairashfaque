@@ -74,7 +74,7 @@ Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate D
   <code><img title="Keras" height="25" src="images/Keras.png"></code>
   <code><img title="Rapidminer" height="25" src="images/Rapidminer.png"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Google Cloud" height="25" src="images/gcp.svg"></code>    
+  <code><img title="Google Cloud" height="25" src="images/gcp.png"></code>    
   <code><img title="Amazon AI Services" height="25" src="images/AAIs.png"></code>    
   <code><img title="H2O" height="25" src="images/h2o.png"></code>        
   <code><img title="Flask" height="25" src="images/flask.png"></code>

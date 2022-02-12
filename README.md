@@ -1,6 +1,6 @@
 <p align="center"><a href="https://zubairashfaque.github.io"><img width="90%" src="images/zubi_ds_3.jpg" /></a></p>
 
-<!-- # Hey! 🙋‍♂️ I'm [ZUBAIR!](https://zubairashfaque.github.io/) & I love TO Play With [Data! (:](https://www.kaggle.com/zubairashfaque) -->
+<!-- # Hey! 🙋‍♂️ I'm [ZUBAIR!] '#20c080' (https://zubairashfaque.github.io/) & I love TO Play With [Data! (:](https://www.kaggle.com/zubairashfaque) -->
 
 
 <p align="center">
@@ -62,7 +62,7 @@ Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate D
 - 📑 &nbsp; Here is my most recent [Resume](https://zubairashfaque.github.io/resume/Zubair_Resume.pdf)
 
 <hr>
-<h2 align="center"; style="color:#20c080" >🔥 Languages & Frameworks & Tools & Abilities 🔥</h2> #20c080
+<h2 align="center"; style="color:#20c080" >🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 
 <br>
 <p align="center">

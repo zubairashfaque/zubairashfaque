@@ -1,3 +1,5 @@
+<p align="center"><a href="https://zubairashfaque.github.io"><img width="80%" src="images/zubi_ds.gif" /></a></p>
+
 # Hey! 🙋‍♂️ I'm [ZUBAIR!](https://zubairashfaque.github.io/) & I love TO Play With [Data! (:](https://www.kaggle.com/zubairashfaque)
 
 <a href="https://github.com/zubairashfaque">

@@ -6,6 +6,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey!%20🙋‍♂️,%20There!%20👋;I'm%20Zubair%20Ashfaque....;Nice%20to%20meet%20you!%20Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=20c080&vCenter=true&size=22"></a>
 </p>
+
+<hr>
 <!--
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -19,6 +21,7 @@
   </a>
 </h1> -->
 
+<!--
 <a href="https://github.com/zubairashfaque">
   <img align="left" alt="zubi | Github" width="25px" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" />
 </a>
@@ -30,14 +33,22 @@
 </a>
 <a href="https://twitter.com/zubairashfaque">
   <img align="left" alt="zubi | Twitter" width="27px" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />
-</a>
+</a> -->
+
+<h5 align="center">
+  <code>
+    <a href="https://www.linkedin.com/in/zubair-ashfaque-ab100621/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zubairashfaque" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://github.com/zubairashfaque" title="github Profile"><img width="22" src="images/github-icon-1.svg"> Stack Overflow</a></code>
+  <code><a href="https://www.kaggle.com/zubairashfaque/" title="Instagram Profile"><img width="22" src="images/kaggle.svg"> Instagram</a></code>
+</h5>
 
 <br />
 <br />
 
 Hello, my name is **Zubair Ashfaque**. I am a Telecom Engineers and Passionate Data Scientist & Machine Learning Engineer 📈 📊 📉 This might sound crazy but I have decided to change my career as a System Analyst to be a Data Scientist/ML Engineer to follow my passion in Data Science & AI 🦾  I will be sharing my experience and knowledge in Data Science, ML & DL on my personal [website](https://zubairashfaque.github.io/) and my [Medium](https://zubairashfaque.github.io/) account.
 
- <img align="right" alt="Me" height =" 300px" width="300px" src="images/work_me.gif"/>
+ <img align="right" alt="Me" height =" 384px" width="512px" src="images/work_me.gif"/>
 
 
 ### About Me:

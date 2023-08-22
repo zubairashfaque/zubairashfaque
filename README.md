@@ -81,4 +81,4 @@
   <a href="https://github.com/zubairashfaque?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-![View Count](https://gpvc.arturio.dev/zubairashfaque)
+![](https://komarev.com/ghpvc/?username=zubairashfaque&color=green)

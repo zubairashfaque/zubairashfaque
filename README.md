@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm Zubair A, a certified TensorFlow Developer and Google Data Analyst with over 5 years of experience in the field of data science and machine learning. I have a strong background in predictive modeling, deep learning, and data visualization.
+I'm Zubair A, a certified TensorFlow Developer and Google Data Analyst with over 10 years of experience in the field of data science and machine learning. I have a strong background in predictive modeling, deep learning, and data visualization.
 
 ## Certifications
 

@@ -13,13 +13,55 @@
 
 ---
 
-## About Me:
-- 🎖️ I’m [Certified TensorFlow Developer](https://www.credential.net/3b358440-6c1a-4a2f-9c0a-61da65d2450d#gs.g2jgj9)
-- 📖 I'm currently learning [Algorithms](https://www.coursera.org/specializations/algorithms?) & [Natural Language Processing - Coursera Specialization](https://www.coursera.org/specializations/natural-language-processing) on [Coursera](https://www.coursera.org/user/157672adc56ebef7adde0712268a503f)
-- 📚 I previously finished [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/professional-cert/R8ZM3HN9A9CX), [IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/WAY5687WJGHC), [Machine Learning with TensorFlow on Google Cloud Platform](https://www.coursera.org/account/accomplishments/specialization/ELA9UH2WESZP), and [DL](https://www.coursera.org/account/accomplishments/specialization/HU8J7CVWXRB4) specialization by Andrew Ng on [Coursera](https://www.coursera.org)
-- 🎖️ I’m looking for people to collaborate on Kaggle competitions
-- 📨 You can contact me using mianashfaque@gmail.com
+## About Me
+
+I'm Zubair A, a certified TensorFlow Developer and Google Data Analyst with over 5 years of experience in the field of data science and machine learning. I have a strong background in predictive modeling, deep learning, and data visualization.
+
+## Certifications
+
+- 🎖️ Certified TensorFlow Developer
+- 📖 Completed Algorithms & Natural Language Processing - Coursera Specialization
+- 📚 Completed Courses:
+  - DeepLearning.AI TensorFlow Developer
+  - IBM Data Science
+  - Machine Learning with TensorFlow on Google Cloud Platform
+  - Deep Learning Specialization by Andrew Ng on Coursera
+
+## Projects
+
+Here are some of the key projects I've worked on:
+
+- **Senior Consultant at System Limited** (January 2023 - Present)
+  - Developed scalable data pipelines using Hadoop and Spark.
+  - Implemented ETL processes for data extraction, transformation, and loading.
+  - Designed efficient data models and schemas using Vertica.
+  - Built interactive dashboards and reports using Tableau.
+  - Collaborated with the MLOps team to deploy and monitor machine learning models.
+
+- **Data Science Consultant at Philips Lifeline** (January 2019 - December 2022)
+  - Created models to forecast customer attrition and recommended actions to enhance retention.
+  - Developed models to track compliance with wear and level of activity.
+  - Utilized sentiment analysis on call transcripts using Amazon Transcribe.
+  - Developed predictive models to anticipate patient risk factors and hospitalization.
+
+- **Data Engineer at VEON** (September 2017 - January 2019)
+  - Designed and implemented a machine learning system that predicts grey traffic with 83% accuracy.
+  - Performed revenue controls and statistical analyses to ensure revenue integrity.
+  - Developed ETL pipelines for processing large volumes of data.
+
+## Collaboration Interest
+
+- 🎖️ I'm always eager to collaborate with others on Kaggle competitions and data science projects. Feel free to reach out if you're interested in working together.
+
+## Contact Information
+
+- 📧 Email: mianashfaque@gmail.com
+
+## Resume
+
 - 📑 Here is my most recent [Resume](https://zubairashfaque.github.io/resume/Zubair_Resume.pdf)
+
+Thank you for visiting my portfolio! If you have any questions or would like to collaborate, please don't hesitate to reach out.
 
 ---
 

@@ -143,33 +143,34 @@
 
 ###
 
-<h2 align="left">💻 Tech Stacks 💻</h2>
+<h2 align="left">️ 🛠️ 🧰 🗄️ 💻 Something I always like to play with 💻 🗄️ 🧰 🛠️</h2>
 
 ### Frontend
 
-<div align="start">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/0b4a893c-8825-4fff-a0ce-bc5cec258e31" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/6803db10-bf25-433d-a91b-8e5ed5ac7699" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/9994d36c-b12a-4706-af11-7363804f1f93" alt="TypeScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-</div>
-
-### Backend
-
-<div align="start">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/5aa642d8-3632-4c7d-97ce-53169b5aa8de" alt="Node.js" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/14ec5163-e06d-4a53-b75c-a30fb565f86e" alt="AWS" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/a0e0cde1-9940-4d45-9845-adddaa61b691" alt="MongoDB" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/3fc83f6d-22db-41c1-883b-1c31622748f3" alt="Python" height="50" /></a>   
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/04717455-a35b-4600-83b5-440b58c6a2f5" alt="Docker" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/96e07d28-6d16-4ebf-8312-65a601d88660" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/650228ec-82a6-4c06-9b0f-617afaac43a6" alt="PostgreSQL" height="50" /></a>  
-</div>
+<p align="center">
+  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Django" height="25" src="images/django.png"></code>
+  <code><img title="PyCharm" height="25" src="images/PyCharm.png"></code>
+  <code><img title="Matplotlib" height="25" src="images/Matlibplot.svg"></code>  
+  <code><img title="Tableau" height="25" src="images/Tableau.png"></code>
+  <code><img title="TensorFlow" height="25" src="images/TF.svg"></code>
+  <code><img title="Keras" height="25" src="images/Keras.png"></code>
+  <code><img title="Rapidminer" height="25" src="images/Rapidminer.png"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="Google Cloud" height="25" src="images/gcp.png"></code>    
+  <code><img title="Amazon AI Services" height="25" src="images/AAIs.png"></code>    
+  <code><img title="H2O" height="25" src="images/h2o.png"></code>        
+  <code><img title="Flask" height="25" src="images/flask.png"></code>
+  <code><img title="Docker" height="25" src="images/docker-original.svg"></code>  
+  <code><img title="Apache Spark" height="25" src="images/Apache_Spark.png"></code>
+  <code><img title="RedHat" height="25" src="images/redhat-original.svg"></code>    
+  <code><img title="Bash Script" height="25" src="images/Bash_Script.png"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="Oracle DB" height="25" src="images/oracle-database-logo.png"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>    
+</p>
 
 <br/>
 

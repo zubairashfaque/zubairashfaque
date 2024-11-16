@@ -4,20 +4,11 @@
 
 ### _<div align="center">Hi, I'm Zubair 👋, a passionate Data Scientist and Machine Learning Engineer dedicated to developing innovative solutions. </div>_
 
-<p align="left">
-🎓 Recent working as Machine Learning Engineer at Health Recovery Solutions.  
-<br>
-🧠 I'm a quick learner and love to learn new technologies.  
-<br>
-💪 Proficient in both front-end and back-end, bringing creative ideas to code. 
-<br>
-🏋️‍♂️ Besides programming, I love weightlifting, cooking, and baking👨‍🍳 
-</p>
 
 <p align="left"> 
     🎓 Currently working as a Machine Learning Engineer at Health Recovery Solutions. 
 <br> 
-    🧠 A quick learner with a passion for exploring advancements in machine learning, AI, and data science technologies. 
+    🧠 A quick learner with a passion for exploring advancements in Machine Learning, AI, and data science technologies. 
 <br> 
     💪 Skilled in building and deploying data-driven solutions, from model development to production, transforming insights into impact. 
 <br> 

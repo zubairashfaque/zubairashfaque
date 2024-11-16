@@ -2,16 +2,26 @@
 <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" style="width: 100%" />
 </div>
 
-### _<div align="center">Hi I'm Lonz 👋 I'm a full stack developer and entrepreneur who's passionate about creating solutions. </div>_
+### _<div align="center">Hi, I'm Zubair 👋, a passionate Data Scientist and Machine Learning Engineer dedicated to developing innovative solutions. </div>_
 
 <p align="left">
-🎓 Recent Software Engineer graduate at BrainStation.  
+🎓 Recent working as Machine Learning Engineer at Health Recovery Solutions.  
 <br>
 🧠 I'm a quick learner and love to learn new technologies.  
 <br>
 💪 Proficient in both front-end and back-end, bringing creative ideas to code. 
 <br>
 🏋️‍♂️ Besides programming, I love weightlifting, cooking, and baking👨‍🍳 
+</p>
+
+<p align="left"> 
+    🎓 Currently working as a Machine Learning Engineer at Health Recovery Solutions. 
+<br> 
+    🧠 A quick learner with a passion for exploring advancements in machine learning, AI, and data science technologies. 
+<br> 
+    💪 Skilled in building and deploying data-driven solutions, from model development to production, transforming insights into impact. 
+<br> 
+    🏋️‍♂️ Outside of work, I enjoy Gaming, playing Cricket, and football 👨‍🍳. 
 </p>
 
 ## ✨ Projects Highlights ✨
